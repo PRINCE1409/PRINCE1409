@@ -5,4 +5,3 @@
 <a href="https://www.facebook.com/gajanand.singh.3720"><img src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/facebook.png" width="40" /></a>
 <a href="https://twitter.com/Iamprincepop14"><img src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/prince.pop/?hl=en"><img src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/instagram.png" width="40" /></a>
-![Gajanand's Github Stats](https://github-readme-stats.vercel.app/api?username=PRINCE1409&show_icons=true&theme=tokyonight)
