@@ -5,4 +5,4 @@
 <a href="https://www.facebook.com/gajanand.singh.3720"><img src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/facebook.png" width="40" /></a>
 <a href="https://twitter.com/Iamprincepop14"><img src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/prince.pop/?hl=en"><img src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/instagram.png" width="40" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE1409&hide=javascript,html)](https://github.com/PRINCE1409/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE1409&hide=javascript,html)]
