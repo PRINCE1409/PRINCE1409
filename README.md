@@ -2,15 +2,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRINCE1409" alt="PRINCE1409" /> </p>
 
 😉 I’m currently learning Ansible , Flutter , Web development
+
 💬 Ask me about Machine Learning , Deep Learning , NLP ,  AWS cloud , DevOps
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/PRINCE1409/PRINCE1409/master/logos/terra.png"></code>
-<code><img height="20" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/aws.png"></code>
-<code><img height="20" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/docker.png"></code>
-<code><img height="20" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/jenkins.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/PRINCE1409/PRINCE1409/master/logos/ansible-282283.webp"></code>    
+<code><img height="30" src="https://raw.githubusercontent.com/PRINCE1409/PRINCE1409/master/logos/terra.png"></code>
+<code><img height="30" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/aws.png"></code>
+<code><img height="30" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/docker.png"></code>
+<code><img height="30" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/jenkins.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/PRINCE1409/PRINCE1409/master/logos/ansible-282283.webp"></code>    
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=PRINCE1409&show_icons=true" /></p>
 <p ><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE1409&hide=javascript,html"></p>
