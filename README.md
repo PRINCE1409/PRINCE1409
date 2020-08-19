@@ -1,9 +1,10 @@
 <h1 align="center">Hi there👋,I'm Gajanand Singh </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRINCE1409" alt="PRINCE1409" /> </p>
 
-😉 I’m currently learning Ansible , Flutter , Web development
+- 😉 I’m currently learning Ansible , Flutter , Web development
 
-💬 Ask me about Machine Learning , Deep Learning , NLP ,  AWS cloud , DevOps
+- 💬 Ask me about Machine Learning , Deep Learning , NLP ,  AWS cloud , DevOps
+
 
 **Languages and Tools:**  
 
