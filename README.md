@@ -13,11 +13,20 @@
 
 **Languages and Tools:**  
 
+<code><img height="30" src="https://rb.gy/2n5vrf"></code>
+<code><img height="30" src="https://kubernetes.io/images/favicon.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/PRINCE1409/PRINCE1409/master/logos/terra.png"></code>
+<code><img height="30" src="https://rb.gy/rheq7g"></code>
 <code><img height="30" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/aws.png"></code>
 <code><img height="30" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/docker.png"></code>
 <code><img height="30" src="https://github.com/PRINCE1409/PRINCE1409/blob/master/logos/jenkins.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/PRINCE1409/PRINCE1409/master/logos/ansible-282283.webp"></code>    
+<code><img height="30" src="https://raw.githubusercontent.com/PRINCE1409/PRINCE1409/master/logos/ansible-282283.webp"></code>
+<code><img height="30" src="https://rb.gy/ydneqm"></code>
+<code><img height="30" src="https://rb.gy/jrghbb"></code>
+<code><img height="30" src="https://rb.gy/xlcsxd"></code>
+<code><img height="30" src="https://rb.gy/5er8my"></code>
+<code><img height="30" src="https://rb.gy/n8hdml"></code>
+
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=PRINCE1409&show_icons=true" /></p>
 <p ><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE1409&hide=javascript,html"></p>
